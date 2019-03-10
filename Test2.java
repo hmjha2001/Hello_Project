@@ -7,6 +7,9 @@ class Test{
 	public void get updated(){
 		system.out.println("updated");
 	}
+	public void get(){
+		system.out.println("updated");
+	}
     
 
 }
