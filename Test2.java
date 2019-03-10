@@ -9,6 +9,7 @@ class Test{
 	}
 	public void get(){
 		system.out.println("updated");
+		system.out.println("updated3");
 	}
     
 
