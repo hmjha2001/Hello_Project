@@ -11,6 +11,7 @@ class Test{
 		system.out.println("updated");
 		system.out.println("updated3");
 		system.out.println("updated4");
+		system.out.println("updated6");
 
 	}
     
