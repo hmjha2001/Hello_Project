@@ -4,6 +4,9 @@ class Test{
 	  System.out.println("hello");
 	  System.out.println("hello India");
   }
+	public void get updated(){
+		system.out.println("updated");
+	}
     
 
 }
