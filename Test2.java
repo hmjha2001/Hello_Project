@@ -10,6 +10,8 @@ class Test{
 	public void get(){
 		system.out.println("updated");
 		system.out.println("updated3");
+		system.out.println("updated4");
+
 	}
     
 
