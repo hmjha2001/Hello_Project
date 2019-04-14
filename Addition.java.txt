@@ -1,5 +1,2 @@
-class Addition{
-
-	public static void main(){
-	}
+class test{
 }
